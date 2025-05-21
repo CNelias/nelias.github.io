@@ -1,0 +1,1 @@
+set PATH=%PATH%;C:\Users\Corentin offline\.local\share\gem\ruby\3.4.0\bin
