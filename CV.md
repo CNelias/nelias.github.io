@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-[CV](assets/AcademicCV.pdf)  
+**Click [here](assets/AcademicCV.pdf)  to download my CV**
